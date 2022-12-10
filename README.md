@@ -1,0 +1,2 @@
+# Adivinanza
+Variable númerica aleatoria
